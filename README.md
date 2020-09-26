@@ -9,9 +9,9 @@
 
 ## Education
 - **MiraCosta College**  
-A.A. Math and Sciences - *Expected* May 2022
-*Current* GPA: **4.0**. 
-*Academic Honors and Organizations*:  
+A.A. Math and Sciences - *Expected* May 2022<br/>
+*Current* GPA: **4.0**.<br/>
+*Academic Honors and Organizations*:<br/>
 Phi Theta Kappa: Alpha Chi Lambda, MiraCosta Honors Scholar Program, 
 Women in Computer Science, ClubIT, Empowering Chicanx And Latinx to Explore Science Technology Engineering 
 and Mathematics (EChALE STEM)
