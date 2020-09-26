@@ -26,11 +26,31 @@ and Mathematics (EChALE STEM).
 - **Hardware**: Assembly, repair, troubleshooting, firmware management
 ## <br/>
 **General & Interpersonal**:<br/>
+- **Other Technologies**: Commonly used workplace software applications (Adobe Creative Suite, Office, Quickbooks etc...), 
+VPN tunneling, network security & firewall management, AWS cloud infrastructure & services.
 - **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
 
-## Experience  
+## Experience 
+*Aug 2020 - Present*<br/> 
+**MiraCosta Department of Computer Science Intern**<br/>
+- Tasked with research and development of new course material prototypes. Java teaching assistant, 
+student support & tutoring.<br/><br/>
 
+*Jan 2020 - Jun 2020*<br/> 
+**MiraCosta Department of Computer Science Intern**<br/>
+- Research towards AWS applications and solutions. Built remote server resources for student organizations.
+Studied towards AWS Cloud Practitioner Certification.<br/><br/>
+
+*Aug 2014 - Oct 2019*<br/>
+**Staples Inc. Certified Technician**<br/>
+Customer Service & Sales.
+PC and mobile device hardware repair, data recovery, on-site services.
+
+*Oct 2007 - Aug 2014*<br/>
+**Freelance Technology Service & Repair Tech**<br/>
+- Independent work servicing and repairing personal and business 
+mobile and office equipment. On-Site setup, service and repairs.
 
 
 ## Activities & Leadership
