@@ -37,7 +37,7 @@ and Mathematics (EChALE STEM)
 VPN tunneling, network security & firewall management, AWS cloud infrastructure & services
 - **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
-- **Foreign Language**: Fully fluent in Spanish.
+- **Foreign Languages**: Fully fluent in Spanish speaking and writing. Elementary Japanese, speaking only.
 
 ## Experience 
 *Aug 2020 - Present*<br/> 
