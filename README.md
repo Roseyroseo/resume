@@ -42,9 +42,9 @@ VPN tunneling, network security & firewall management, AWS cloud infrastructure 
 ## Experience 
 *Aug 2020 - Present*<br/> 
 **MiraCosta College: Department of Computer Science - Intern**<br/>
-- Tasked with research and development of new course material prototypes using Carnegie Mellon's OLI Echo platform, 
-coding exercises and questionnaires for intermediate Java students. Teaching assistant and
-student support aide.
+- Tasked with research and development of new course material prototypes, 
+coding exercises, and questionnaires for intermediate Java students using 
+Carnegie Mellon's OLI Echo platform. Teaching assistant and student support aide.
 
 *Jan 2020 - Jun 2020*<br/> 
 **MiraCosta College: Department of Computer Science - Intern**<br/>
