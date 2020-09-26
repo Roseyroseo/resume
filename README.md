@@ -33,14 +33,14 @@ VPN tunneling, network security & firewall management, AWS cloud infrastructure 
 
 ## Experience 
 *Aug 2020 - Present*<br/> 
-**MiraCosta Department of Computer Science - Intern**<br/>
+**MiraCosta College: Department of Computer Science - Intern**<br/>
 - Tasked with research and development of new course material prototypes. Java teaching assistant, 
-student support & tutoring.<br/><br/>
+student support & tutoring.
 
 *Jan 2020 - Jun 2020*<br/> 
-**MiraCosta Department of Computer Science - Intern**<br/>
+**MiraCosta College: Department of Computer Science - Intern**<br/>
 - Research towards AWS applications and solutions. Built remote server resources for student organizations.
-Studied towards AWS Cloud Practitioner Certification.<br/><br/>
+Studied towards AWS Cloud Practitioner Certification.
 
 *Aug 2014 - Oct 2019*<br/>
 **Staples Inc. - Certified Technician**<br/>
@@ -54,3 +54,14 @@ mobile and office equipment. On-Site setup, service and repairs.
 
 
 ## Activities & Leadership
+**Empowering Chicanx and Latinx to Explore STEM**<br/>
+*Outreach Co-Chair*<br/>
+- Focused on bringing financial and/or academic opportunities in STEM
+to the Chicanx and Latinx student population as well as improving organization outreach
+in order to collaborate with other STEM organizations for cultural fundraising events and 
+industry panels.
+
+**Independent Community Outreach**
+- Provided free computer and mobile device repair and acquisition via refurbishing for elderly 
+and low-income families using old donated and/or recycled components.
+
