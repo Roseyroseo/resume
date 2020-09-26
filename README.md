@@ -9,11 +9,12 @@
 
 ## Education
 - **MiraCosta College**  
-A.A. Math and Sciences - *Expected* May 2022  
+A.A. Math and Sciences - *Expected* May 2022
+*Current* GPA: **4.0**. 
 *Academic Honors and Organizations*:  
-Current GPA: **4.0**. Phi Theta Kappa: Alpha Chi Lambda, MiraCosta Honors Scholar Program, 
+Phi Theta Kappa: Alpha Chi Lambda, MiraCosta Honors Scholar Program, 
 Women in Computer Science, ClubIT, Empowering Chicanx And Latinx to Explore Science Technology Engineering 
-and Mathematics (EChALE STEM).  
+and Mathematics (EChALE STEM)
 
 ## Skills
 **Programming:**<br/>
@@ -27,7 +28,7 @@ and Mathematics (EChALE STEM).
 ## <br/>
 **General & Interpersonal**:<br/>
 - **Other Technologies**: Commonly used workplace software applications (Adobe Creative Suite, Office, Quickbooks etc...), 
-VPN tunneling, network security & firewall management, AWS cloud infrastructure & services.
+VPN tunneling, network security & firewall management, AWS cloud infrastructure & services
 - **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
 
