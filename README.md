@@ -48,8 +48,9 @@ student support aide.
 
 *Jan 2020 - Jun 2020*<br/> 
 **MiraCosta College: Department of Computer Science - Intern**<br/>
-- Research towards AWS applications and solutions. Built remote server resources for student organizations.
-Studied towards AWS Cloud Practitioner Certification.
+- Performed research and study in AWS applications and solutions aiming towards a Cloud Practitioner
+Certification. Built remote cloud infrastructure to store and deploy student organization resources and applications to 
+eliminate device dependency and increase accessibility. 
 
 *Aug 2014 - Oct 2019*<br/>
 **Staples Inc. - Certified Technician**<br/>
