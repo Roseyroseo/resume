@@ -17,16 +17,16 @@ Women in Computer Science, ClubIT, Empowering Chicanx And Latinx to Explore Scie
 and Mathematics (EChALE STEM)
 
 ## Skills
-**Programming:**<br/>
+### Programming:
 - **Primary Language**: Java
 - **Secondary Languages**: Python, CSS, HTML
-## <br/>
-**Information Technology**:<br/>
+
+### Information Technology:
 - **Primary Operating Systems**: Windows, Linux(Ubuntu), Android, Raspberry Pi OS (Raspbian)
 - **Secondary Operating Systems**: MacOS X, Linux(Debian), iOS
 - **Hardware**: Assembly, repair, troubleshooting, firmware management
-## <br/>
-**General & Interpersonal**:<br/>
+
+### General & Interpersonal:
 - **Other Technologies**: Commonly used workplace software applications (Adobe Creative Suite, Office, Quickbooks etc...), 
 VPN tunneling, network security & firewall management, AWS cloud infrastructure & services
 - **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
