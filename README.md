@@ -1,13 +1,13 @@
 ![profile-photo](/doc/photo.jpg)
 <br/>
-#Rosey A Gutierrez  
+# Rosey A Gutierrez  
 
-##Contact:  
+## Contact:  
 ![email](/doc/email.png) [Email](mailto:rgutierrez@miracosta.edu)  
 ![linkedin](/doc/linkedin.png) [LinkedIn](https://www.linkedin.com/in/rosey-a-gutierrez/)  
 ![GitHub](/doc/github.png) [GitHub](https://github.com/Roseyroseo)  
 
-##Education
+## Education
 - **MiraCosta College**  
 A.A. Math and Sciences - *Expected* May 2022  
 *Academic Honors and Organizations*:  
@@ -15,7 +15,7 @@ Current GPA: **4.0**. Phi Theta Kappa: Alpha Chi Lambda, MiraCosta Honors Schola
 Women in Computer Science, ClubIT, Empowering Chicanx And Latinx to Explore Science Technology Engineering 
 and Mathematics (EChALE STEM).  
 
-##Skills
+## Skills
 **Programming:**
 - **Primary Language**: Java
 - **Secondary Languages**: Python, CSS, HTML 
@@ -29,8 +29,8 @@ and Mathematics (EChALE STEM).
 - **Organizational Development**: Creative problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
 
-##Experience  
+## Experience  
 
 
 
-##Activities & Leadership
+## Activities & Leadership
