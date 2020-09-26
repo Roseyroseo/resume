@@ -7,6 +7,12 @@
 ![linkedin](/doc/linkedin.png) [LinkedIn](https://www.linkedin.com/in/rosey-a-gutierrez/)  
 ![GitHub](/doc/github.png) [GitHub](https://github.com/Roseyroseo)  
 
+## Summary
+Aspiring programmer, self-taught in IT; able to connect and work together closely with individuals
+in order to achieve timely and quality work results. Proficient in multiple software platforms,
+adaptable to learning new options and environments quickly. Effective communicator adept in deescalating
+and resolving conflicts or client misunderstandings with ease.
+
 ## Education
 - **MiraCosta College**  
 A.A. Math and Sciences - *Expected* May 2022<br/>
@@ -31,6 +37,7 @@ and Mathematics (EChALE STEM)
 VPN tunneling, network security & firewall management, AWS cloud infrastructure & services
 - **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
+- **Foreign Language**: Fully fluent in Spanish.
 
 ## Experience 
 *Aug 2020 - Present*<br/> 
