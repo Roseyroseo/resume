@@ -1,8 +1,8 @@
-![Rosey profile image](/doc/photo)
+![profile-photo](/doc/photo.jpg)\
 #Rosey A Gutierrez
 
-##Contact: 
-![email](/doc/email.png) [Email](mailto:rgutierrez@miracosta.edu)
+##Contact:  
+![email](/doc/email.png) [Email](mailto:rgutierrez@miracosta.edu)  
 ![linkedin](/doc/linkedin.png) [LinkedIn](https://www.linkedin.com/in/rosey-a-gutierrez/)
 
 ##Education
