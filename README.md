@@ -18,17 +18,17 @@ and Mathematics (EChALE STEM).
 ## Skills
 **Programming:**<br/>
 - **Primary Language**: Java
-- **Secondary Languages**: Python, CSS, HTML 
+- **Secondary Languages**: Python, CSS, HTML
 <br/> 
 <br/>
-**Information Technology**:<br/>
+**Information Technology**:<br/><br/>
 - **Primary Operating Systems**: Windows, Linux(Ubuntu), Android, Raspberry Pi OS (Raspbian)
 - **Secondary Operating Systems**: MacOS X, Linux(Debian), iOS
-- **Hardware**: Assembly, repair, troubleshooting, firmware management  
+- **Hardware**: Assembly, repair, troubleshooting, firmware management
 <br/>
 <br/>
-**General & Interpersonal**:<br/>
-- **Organizational Development**: Creative problem solving, teambuilding, multi-tasking, equitable task delegating
+**General & Interpersonal**:<br/><br/>
+- **Organizational Development**: Creative-problem solving, teambuilding, multi-tasking, equitable task delegating
 - **Customer Service**: Conflict de-escalation, dispute resolution, client satisfaction  
 
 ## Experience  
