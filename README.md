@@ -8,10 +8,13 @@
 ![GitHub](/doc/github.png) [GitHub](https://github.com/Roseyroseo)  
 
 ## Summary
-Aspiring programmer, self-taught in IT; able to connect and work together closely with individuals
-in order to achieve timely and quality work results. Proficient in multiple software platforms,
-adaptable to learning new options and environments quickly. Effective communicator adept in deescalating
-and resolving conflicts or client misunderstandings with ease.
+I'm a highly motivated, Computer Science student and aspiring programmer self-taught in Information Technology. 
+I am able to connect and work together with all sorts of individuals in order to achieve timely and quality work results. 
+I'm proficient in multiple software platforms, ranging from creative-oriented editing software such as Adobe Photoshop and Audition 
+to more business-oriented applications such as QuickBooks and PeachTree; I am proud of being a very adaptable individual with the ability
+ to learn new platforms and environments quickly.
+
+I love learning about new things and applying the knowledge to solve problems or just improve quality of life whether for myself or others.
 
 ## Education
 - **MiraCosta College**  
